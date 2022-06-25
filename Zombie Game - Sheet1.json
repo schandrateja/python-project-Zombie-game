@@ -1,0 +1,342 @@
+[
+ {
+   "id": [
+      1,
+      1
+   ],
+   "name": "cafe",
+   "c1": 4,
+   "c2": 2,
+   "c3": 3,
+   "story": "you are having a coffee and you heard the news zombies are real and in the city",
+   "nav": "press 1 to go to garage, press 2 to go to the car, and press 3 to go to house",
+   "win": 0,
+   "lose": 0,
+   "friend": 1,
+   "zombie": 1,
+   "weather": 0
+},
+ {
+   "id": [
+      2,
+      2
+   ],
+   "name": "car",
+   "c1": 1,
+   "c2": 3,
+   "c3": 4,
+   "story": "you are in your car with your friend and it is raining ",
+   "nav": "press 1 to go to cafe, press 2 to go to house, and press 3 to go to the garage",
+   "win": 0,
+   "lose": 0,
+   "friend": 0,
+   "zombie": 0,
+   "weather": 1
+},
+ {
+   "id": [
+      3,
+      3
+   ],
+   "name": "house",
+   "c1": 2,
+   "c2": 4,
+   "c3": 5,
+   "story": "you reached your house and you have encountered a zombie on the way home",
+   "nav": "Press 1 to go to the car, 2 to go to garage, and 3 to go to farm",
+   "win": 0,
+   "lose": 0,
+   "friend": 0,
+   "zombie": 1,
+   "weather": 0
+},
+ {
+   "id": [
+      4,
+      4
+   ],
+   "name": "garage",
+   "c1": 6,
+   "c2": 5,
+   "c3": 3,
+   "story": "you are in the garage with your friend planning where to go",
+   "nav": "Press 1 to go to toronto, 2 to go to the farm, and 3 to go to the house",
+   "win": 0,
+   "lose": 0,
+   "friend": 1,
+   "zombie": 0,
+   "weather": 0
+},
+ {
+   "id": [
+      5,
+      5
+   ],
+   "name": "farm",
+   "c1": 2,
+   "c2": 4,
+   "c3": 6,
+   "story": "you are struck in the farm and trembling with fear and there is heavy rain",
+   "nav": "press 1 to go to car, press 2 to go to garage, and press 3 to go to toronto",
+   "win": 0,
+   "lose": 0,
+   "friend": 0,
+   "zombie": 0,
+   "weather": 1
+},
+ {
+   "id": [
+      6,
+      6
+   ],
+   "name": "toronto",
+   "c1": 7,
+   "c2": 11,
+   "c3": 9,
+   "story": "you have reached Toronto to your friend's place. There is a zombie and you killed it",
+   "nav": "press 1 to go to store, press 2 to go to apartment, and press 3 to go to hospital",
+   "win": 0,
+   "lose": 0,
+   "friend": 1,
+   "zombie": 1,
+   "weather": 0
+},
+ {
+   "id": [
+      7,
+      7
+   ],
+   "name": "store",
+   "c1": 8,
+   "c2": 9,
+   "c3": 10,
+   "story": "You went to the store to some choclates ",
+   "nav": "press 1 to go to the pharmacy, press 2 to go to hospital, and press 3 to go to shopping mall",
+   "win": 0,
+   "lose": 0,
+   "friend": 0,
+   "zombie": 0,
+   "weather": 0
+},
+ {
+   "id": [
+      8,
+      8
+   ],
+   "name": "pharmacy",
+   "c1": 15,
+   "c2": 7,
+   "c3": 9,
+   "story": "you took a first aid kit from the pharmacy",
+   "nav": "press 1 to go to school, press 2 to go to the store, and press 3 to go to hospital",
+   "win": 0,
+   "lose": 0,
+   "friend": 0,
+   "zombie": 0,
+   "weather": 0
+},
+ {
+   "id": [
+      9,
+      9
+   ],
+   "name": "hospital",
+   "c1": 8,
+   "c2": 10,
+   "c3": 15,
+   "story": "you are in the hospital and there are lot zombies don't make a sound",
+   "nav": "press 1 to go to pharmacy, press 2 to go to shopping mall, and press 3 to go to school",
+   "win": 0,
+   "lose": 0,
+   "friend": 0,
+   "zombie": 1,
+   "weather": 0
+},
+ {
+   "id": [
+      10,
+      10
+   ],
+   "name": "shopping mall",
+   "c1": 9,
+   "c2": 11,
+   "c3": 14,
+   "story": "you are in the shopping mall wear some new clothes and resume the journey",
+   "nav": "press 1 to go to hospital, press 2 to go to apartment, and press 3 to go to the bridge",
+   "win": 0,
+   "lose": 0,
+   "friend": 0,
+   "zombie": 0,
+   "weather": 0
+},
+ {
+   "id": [
+      11,
+      11
+   ],
+   "name": "apartment",
+   "c1": 12,
+   "c2": 10,
+   "c3": 14,
+   "story": "you reached your friend's apartment and had something to eat again, the weather is too hot",
+   "nav": "press 1 to go to the subway, 2 to go to the shopping mall, and 3 to go to bridge",
+   "win": 0,
+   "lose": 0,
+   "friend": 1,
+   "zombie": 0,
+   "weather": 1
+},
+ {
+   "id": [
+      12,
+      12
+   ],
+   "name": "subway",
+   "c1": 16,
+   "c2": 13,
+   "c3": 18,
+   "story": "you want to wander under the city without making a noise, you took the subway ",
+   "nav": "press 1 to go to the library press 2 to go to metro station ,and press 3 to go to the truck",
+   "win": 0,
+   "lose": 0,
+   "friend": 0,
+   "zombie": 0,
+   "weather": 0
+},
+ {
+   "id": [
+      13,
+      13
+   ],
+   "name": "metro train",
+   "c1": 14,
+   "c2": 12,
+   "c3": 7,
+   "story": "you boarded on the metro train safely there are no zombies in the train",
+   "nav": "press 1 to go to bridge, press 2 to go to subway, and press 3 to go to store",
+   "win": 0,
+   "lose": 0,
+   "friend": 0,
+   "zombie": 1,
+   "weather": 0
+},
+ {
+   "id": [
+      14,
+      14
+   ],
+   "name": "bridge",
+   "c1": 5,
+   "c2": 15,
+   "c3": 16,
+   "story": "you somehow made your way to the bridge and it is raining again",
+   "nav": "press 1 to go to farm, 2 to go to school, 3 to go to the library",
+   "win": 0,
+   "lose": 0,
+   "friend": 0,
+   "zombie": 0,
+   "weather": 1
+},
+ {
+   "id": [
+      15,
+      15
+   ],
+   "name": "school",
+   "c1": 6,
+   "c2": 16,
+   "c3": 15,
+   "story": "you saw a school nearby and went inside it ",
+   "nav": "Press 1 to go to toronto, 2 to go to library, and 3 to go to school",
+   "win": 0,
+   "lose": 0,
+   "friend": 0,
+   "zombie": 0,
+   "weather": 0
+},
+ {
+   "id": [
+      16,
+      16
+   ],
+   "name": "library",
+   "c1": 20,
+   "c2": 17,
+   "c3": 15,
+   "story": "you are in the library to check the map of the city and your friend knows about maps",
+   "nav": "press 1 to go to ship, press 2 to go to bus, and press 3 to go to the school",
+   "win": 0,
+   "lose": 0,
+   "friend": 1,
+   "zombie": 0,
+   "weather": 0
+},
+ {
+   "id": [
+      17,
+      17
+   ],
+   "name": "bus",
+   "c1": 18,
+   "c2": 16,
+   "c3": 19,
+   "story": "you took a bus and left the school in the rain, and you killed a lot of fo zombies while driving ",
+   "nav": "press 1 to go to truck, press 2 to go to library, and press 3 to go to airport",
+   "win": 0,
+   "lose": 0,
+   "friend": 0,
+   "zombie": 1,
+   "weather": 1
+},
+ {
+   "id": [
+      18,
+      18
+   ],
+   "name": "truck",
+   "c1": 15,
+   "c2": 20,
+   "c3": 19,
+   "story": "you friend brought a truck and you resumed your journey ",
+   "nav": "press 1 to go to school, press 2 to go to ship, and press 3 to go to airpot",
+   "win": 0,
+   "lose": 0,
+   "friend": 0,
+   "zombie": 0,
+   "weather": 0
+},
+ {
+   "id": [
+      19,
+      19
+   ],
+   "name": "airport",
+   "c1": null,
+   "c2": null,
+   "c3": null,
+   "story": "Welcome to the airport there are lot of zombies and you are killed ",
+   "nav": "",
+   "win": 0,
+   "lose": 1,
+   "friend": 0,
+   "zombie": 1,
+   "weather": 0
+},
+ {
+   "id": [
+      20,
+      20
+   ],
+   "name": "ship",
+   "c1": null,
+   "c2": null,
+   "c3": null,
+   "story": "Yay! you and your friend reached to the ship and zombies cannot come into the water you are safe.",
+   "nav": "",
+   "win": 1,
+   "lose": 0,
+   "friend": 1,
+   "zombie": 0,
+   "weather": 0
+}
+]
